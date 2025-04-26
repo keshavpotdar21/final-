@@ -1,0 +1,12 @@
+
+{
+  "name": "traprunner-static",
+  "version": "1.0.0",
+  "description": "Static HTML/CSS version of the TrapRunner application",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'No development server configured for static HTML'",
+    "build": "echo 'No build step configured for static HTML'",
+    "start": "echo 'No start script configured for static HTML'"
+  }
+}
